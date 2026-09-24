@@ -1,0 +1,156 @@
+# Juno: New Origins 简体中文 术语表 (glossary)
+# 制表符分隔: 英文原文 <TAB> 统一译法 <TAB> 说明 / 例外
+# 译者与校对者共用。改这里 → 重新生成批次时按此统一；全量翻完后可据此做术语一致性扫描。
+Craft	载具	泛指玩家建造的火箭/飞机/车/船
+Craft Design	载具设计	保存的蓝图文件
+Part	零件	建造用的组件
+Parts	零件	零件分类/统计项
+Career	生涯	模式名
+Career Mode	生涯模式	
+Sandbox	沙盒	模式名
+Contract	合约	
+Milestone	里程碑	
+Launch	发射	动词/名词
+Launch Location	发射场	
+Launch Fee	发射费用	
+Tech Point / TP	科技点	保留 TP 缩写不译
+Tech Tree	科技树	
+Mod	模组	不译作"插件"
+Mod Manager	模组管理	
+Mod Support	模组支持	
+Debris	残骸	飞行中的丢弃物
+Crew	乘员	
+Crewed	载人	
+Command Pod	指令舱	
+Mass	质量	物理量
+Wet Mass / Dry Mass	湿重 / 干重	
+Stage / Stages	分级	火箭分级
+Delta-V / Delta V	Delta-V	不译
+Thrust	推力	
+Throttle	油门	
+Gimbal	矢量摆动	
+Torque	扭矩	
+Apoapsis	远拱点	
+Periapsis	近拱点	
+Inclination	倾角	
+Eccentricity	偏心率	
+Orbit	轨道	
+Planet	行星	
+Moon	卫星	环绕行星的天体
+Celestial Body	天体	
+Biome	生物群系	
+Landmark	地标	
+Atmosphere	大气	
+Vacuum	真空	
+Reentry	再入	
+Landing	着陆	
+Rover	巡视车	
+Parachute	降落伞	
+Landing Gear	起落架	
+Fairing	整流罩	
+Nose Cone	头锥	
+Decoupler	分离器	
+Separator	分离环	
+Docking	对接	
+Docked	已对接	
+Maneuver Node	机动节点	
+Warp	时间加速	物理加速/时间加速
+SOI / Sphere of Influence	影响范围	
+RCS	RCS	不译
+SAS	SAS	不译
+Isp / Specific Impulse	比冲	保留 Isp
+Center of Mass	质心	
+Center of Thrust	推力中心	
+Center of Lift	升力中心	
+Drag	阻力	
+Lift	升力	
+Aerodynamics	气动	
+Fuel	燃料	
+Tank	燃料箱	
+Payload	载荷	
+Subassembly	组件	可复用的零件组合
+Flight Program	飞行程序	Vizzy 程序
+Flight State	飞行状态	存档类型
+Game State	存档	"游戏状态"过长, UI 里用"存档"
+Company	公司	
+Customer	客户	合约甲方
+Funds / Money	资金	金钱
+Reward	奖励	
+Requirement	要求	
+Penalty	惩罚	
+Difficulty	难度	
+Blueprint	蓝图	
+Designer	设计器	
+Builder	建造器	
+Parts Category	零件分类	
+Photo Library	照片库	
+Planet Studio	行星工坊	官方示例已定
+Planetary System	行星系	
+Modifier	修改器	地形/水体修改器
+Procedural	程序化	
+Texture	贴图	
+Shader	着色器	
+Slider	滑块	
+Toggle	开关	
+Tooltip	提示	
+Dropdown	下拉菜单	
+Checkbox	复选框	
+Dialog	对话框	
+Placeholder	占位符	
+Screenshot	截图	
+Upload	上传	
+Download	下载	
+Leaderboard	排行榜	
+Score	分数	
+Achievement	成就	
+Tutorial	教程	
+Vizzy	Vizzy	保留原名(可视化编程系统)
+Vizzy Program	Vizzy 程序	首次出现可写作 "Vizzy 程序"
+Instruction	指令	Vizzy 积木块
+Variable	变量	
+Expression	表达式	
+Event	事件	
+Loop	循环	
+Not Available / N/A	不可用	
+Warning	警告	
+Error	错误	
+OK / Okay	确定	
+Yes	是	肯定回答
+No	否	否定回答
+Cancel	取消	
+Close	关闭	
+Delete	删除	
+Remove	移除	
+Confirm	确认	
+Reset	重置	
+Refresh	刷新	
+Enable	启用	
+Disable	禁用	
+Drood / droods	保留原文 Drood	游戏虚构物种名，与行星名 Juno/Droo/Cylero 等风格一致，不音译
+行星名 (Juno, Droo, Cylero, Tydos, Urados, Nebra, Luna, Jastrus, Herma, ...)	保留原文	天体/行星专名一律不译
+Handrew's Comet	汉德鲁彗星	唯一含人名的天体名，可译
+Tinker Panel	调试面板	科技树作弊节点
+plug nozzle	塞式喷管	
+grain (solid propellant)	药柱	星形/管形/双锚形/杆管形/多翼形药柱
+staged combustion	分级燃烧	
+full-flow staged combustion	全流量分级燃烧	
+electric pump	电动泵	
+aero braking	气动减速	
+bar (pressure)	巴	单位, 不译作"标准大气压"
+Max Contracts Offered	合约数量上限	与 Max Active Crafts=活跃载具上限 保持同构
+aero braking / aerobrake	气动减速	
+recovery / scrap	回收 / 拆解	Scrapping Returns = 回收收益
+TWR	保留 TWR	推重比缩写在 HUD/参数面板通用，不译作"推重比"
+AGL / ASL	保留 AGL / ASL	航空标准缩写，不译
+Isp	保留 Isp	比冲缩写，不译
+STG	保留 STG	HUD 分级指示缩写
+PETN	保留 PETN	炸药缩写
+HUD	保留 HUD	
+PID	保留 PID	
+Apoapsis / Periapsis	远拱点 / 近拱点	不写作"远地点/近地点"
+octave	倍频	噪声参数（不译"八度"）
+lacunarity	间隙度	噪声参数（不译"缝隙度/空隙度"）
+Billow	浪涌	FastNoiseLite 分形类型
+Ridged Multi	脊状多重	FastNoiseLite 分形类型
+AG	激活组	CommandPod 的 Activation Group，UI 用"激活组"
+AoA	攻角	保留"攻角"中文，不保留英文缩写

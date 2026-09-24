@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <AssemblyName>JnoSig</AssemblyName>
+    <RootNamespace>JnoSig</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <NoWarn>CS0162;CS0168</NoWarn>
+  </PropertyGroup>
+
+  <!-- 直接用解压出来的 Mono.Cecil，绕开出问题的 NuGet 源配置 -->
+  <ItemGroup>
+    <Reference Include="Mono.Cecil">
+      <HintPath>cecil\lib\netstandard2.0\Mono.Cecil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
